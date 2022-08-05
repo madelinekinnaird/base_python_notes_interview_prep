@@ -23,6 +23,27 @@ d.items()
 d.pop()
 ```
 
-### 3) Sets
 
-4)
+### 3) string manipulation
+```python
+s.upper()
+s.lower()
+s.encode()
+s.strip()
+s.find()
+s.capitalize()
+s.split()
+
+### 4) iterating
+
+##### while statement
+```python
+while i < n:
+  i +=1
+```
+
+##### for statement
+```python
+for i in sequence:
+
+```
