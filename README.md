@@ -33,6 +33,7 @@ s.strip()
 s.find()
 s.capitalize()
 s.split()
+```
 
 ### 4) iterating
 
